@@ -12,6 +12,8 @@ An accountant at your organization received an email regarding an invoice with a
 Q1 : How many packets does the capture have?
 
 Answer : `4003`
+
+![Description](images/hawk_eye_packet.png)
 ___
 
 Q2 : At what time was the first packet captured?
