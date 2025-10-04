@@ -50,6 +50,7 @@ Q7 : The organization works with private addressing and netmask /24. How many co
 
 Answer : `3`
 
+In Wireshark under Statistics > Endpoints, I observed 4 IP addresses. One of them was 10.4.10.255, which is the broadcast address for the /24 network and not an actual host. Excluding the broadcast address, there are 3 computers involved in the capture.
 ___
 
 Q8 : What is the name of the most active computer at the network level?
