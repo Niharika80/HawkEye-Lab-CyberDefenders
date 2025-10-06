@@ -1,5 +1,5 @@
 # HawkEye-Lab-CyberDefenders
-This repository contains my notes and analysis from the HawkEye lab on [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/achievements/Niharika/hawkeye/). 
+This repository contains my notes and analysis from the [HawkEye lab](https://cyberdefenders.org/blueteam-ctf-challenges/hawkeye/) on [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/achievements/Niharika/hawkeye/). 
 The lab focuses on **network traffic analysis** and **Blue Team operations** using **Wireshark**.
 
 ## Tools Used: `Wireshark`
